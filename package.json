@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/poojithadarmapuri.lwc-l964kaxp",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve W1CB30j3d7xx3b2kZCiz --open"
+  }
+}
